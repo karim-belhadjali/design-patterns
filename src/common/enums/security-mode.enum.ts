@@ -1,0 +1,7 @@
+export enum SecurityMode {
+  DISARMED = 'DISARMED',
+  ARMED_STAY = 'ARMED_STAY',
+  ARMED_AWAY = 'ARMED_AWAY',
+  TRIGGERED = 'TRIGGERED',
+  ALARM = 'ALARM',
+}

@@ -1,0 +1,9 @@
+export enum DeviceType {
+  LIGHT = 'LIGHT',
+  THERMOSTAT = 'THERMOSTAT',
+  LOCK = 'LOCK',
+  CAMERA = 'CAMERA',
+  SENSOR = 'SENSOR',
+  SPEAKER = 'SPEAKER',
+  SWITCH = 'SWITCH',
+}
